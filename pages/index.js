@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <div id="app">
         <div id="cover">
-          <textarea placeholder="If youre reading this start typing" autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" maxlength="60">
+          <textarea placeholder="If youre reading this start typing" autoFocus="autofocus" autoComplete="off" autoCorrect="off" autoCapitalize="off" spellCheck="false" maxLength="60">
 
           </textarea>
 
